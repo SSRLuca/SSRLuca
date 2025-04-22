@@ -4,10 +4,12 @@ Hi, I'm Rick !  I'm a back-end Developer of web. I love learing new technology a
 I'm in Taiwan now. If I have a chance, I also want to work at other country, talk a lot with all sort of people and know more about this world 😸.
 
 
-## 🔭 Goals of 2024
+## 🔭 Goals of 2025
 
-- I want to learn English and new technologies, and I also try to learn English by watching YouTube。
-- I like playing games, but I also like developing games. I hope I can develop games that everyone will like.
+- I want to learn English、Japanese and new technologies。
+- I like playing games, dealing with problems .
+
+
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
@@ -20,7 +22,7 @@ I'm in Taiwan now. If I have a chance, I also want to work at other country, tal
 - ASP.Net C#, ASP.Net Web Form , ASP.Net MVC
 - WebAPI
 - Git
-- MSSQL
+- SQL Server
 
 
 ## 💡 Projects
